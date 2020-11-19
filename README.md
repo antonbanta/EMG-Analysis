@@ -1,2 +1,2 @@
 # Banta_task
-Tasks are uploaded here as ipynb files.
+Private repository with task 1 and task 2.
