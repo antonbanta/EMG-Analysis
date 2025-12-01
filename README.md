@@ -1,2 +1,2 @@
-# Banta_task
-Private repository with task 1 and task 2.
+# EMG Gesture Classification 
+Repo showing how to load, preprocess, and perform gesture classification from open source EMG data.
